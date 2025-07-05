@@ -17,8 +17,8 @@
 
 ## 一、基礎資料結構（Elementary Structures）
 
-### 陣列與字串（Array & String）
-- 基礎操作、查詢與修改
+### 陣列與字串（Array & String） 
+- 基礎操作、查詢與修改 (略)
 - 二分搜尋、prefix sum、差分陣列
 - 字串反轉、子字串計數、滑動視窗
 - KMP、Rabin-Karp、Z-algorithm
